@@ -10,11 +10,11 @@ Additionally, I aim to increase digital awareness among children by writing educ
 
 Available in all online bookstores and local bookshops.
 
-Scratch ile Arduino
-mBot ile Robotik Kodlama
-Sibernaz ile Teknogül - Benim Dijital Rozetlerim
-Sibernaz ile Teknogül - Yastığım Titriyor mu?
-Herkes için Yapay Zeka Okuryazarlığı
+Scratch ile Arduino<br>
+mBot ile Robotik Kodlama<br>
+Sibernaz ile Teknogül - Benim Dijital Rozetlerim<br>
+Sibernaz ile Teknogül - Yastığım Titriyor mu?<br>
+Herkes için Yapay Zeka Okuryazarlığı<br>
 
 ## 📝 Medium Article
 
